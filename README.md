@@ -6,7 +6,7 @@
 
 One-line resignation letter for make.fun's "The One-Line Exit" bounty ($2, 8 places). The program writes the line to `/output/entry.txt`.
 
-> "I resign because the printer has seen me cry more times than my manager has said hello." (87 characters)
+> "I resign because the printer has seen me cry more than my manager has said hello." (81 characters)
 
 ## Run it
 
